@@ -1,0 +1,6 @@
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\bin\Debug\DataType-Float.exe.config
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\bin\Debug\DataType-Float.exe
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\bin\Debug\DataType-Float.pdb
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\obj\Debug\DataType-Float.csprojResolveAssemblyReference.cache
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\obj\Debug\DataType-Float.exe
+G:\A to Z CsharpCourse\DataType-Float\DataType-Float\obj\Debug\DataType-Float.pdb
